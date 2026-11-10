@@ -1,6 +1,6 @@
 # Hi, I'm Vikash Basfore 👋
 
-### Data Science | Machine Learning | Deep Learning | Generative AI
+### Data Analytics | Data Science | AI/ML Engineering | Generative AI
 
 ## 👨‍💻 About Me
 
