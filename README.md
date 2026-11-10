@@ -25,7 +25,7 @@ I have also worked on data engineering workflows, NLP applications, and Retrieva
 
 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vikash-basfore-99a95b3bb)
 
-GitHub: https://github.com/VikashBasfore
+GitHub:  [Your Github Profile](https://github.com/VikashBasfore)
 
 Email: vikashbasfore79@gmail.com
 
