@@ -1,8 +1,8 @@
 # Hi, I'm Vikash Basfore 👋
 
-### Data Analytics | Data Science | AI/ML Engineering | Generative AI
+### Data Science | Machine Learning | Deep Learning | Generative AI
 
-## 👨‍💻 Who Am I?
+## 👨‍💻 About Me
 
 I'm a Data Science and AI enthusiast with a background in Commerce and a specialization in Data Science and Generative AI.
 
@@ -10,14 +10,23 @@ I have hands-on experience working with Python, SQL, Machine Learning, Data Anal
 
 I have also worked on data engineering workflows, NLP applications, and Retrieval-Augmented Generation (RAG) systems.
 
-## 🛠️ My Top Skills
+## 🛠️ Technical Skills
 
 - **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Excel
-- **Data Visualization:** Power BI, Tableau, Matplotlib
-- **Machine Learning:** Scikit-learn, XGBoost, LightGBM
-- **Generative AI:** LangChain, LangGraph, RAG, Hugging Face, OpenAI API
-- **Databases:** MySQL, PostgreSQL, FAISS, ChromaDB
+- **Data Analytics:** Pandas, NumPy, Power BI, Tableau, Excel
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Regression, Classification, Clustering
+- **Deep Learning & NLP:** Neural Networks, PyTorch, NLP, Hugging Face, Sentence Transformers
+- **Generative AI:** LangChain, LangGraph, RAG, OpenAI API
 - **Data Engineering:** Databricks, PySpark, Delta Lake, Azure
-- **Frameworks:** FastAPI, Streamlit
-- **Tools:** Git, GitHub, VS Code
+- **Databases:** MySQL, PostgreSQL, FAISS, ChromaDB
+- **Frameworks & Tools:** FastAPI, Streamlit, Git, GitHub
+
+📫 How to Reach Me
+
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vikash-basfore-99a95b3bb)
+
+GitHub: https://github.com/VikashBasfore
+
+Email: vikashbasfore79@gmail.com
+
+⭐ Always learning, building, and exploring new technologies.
